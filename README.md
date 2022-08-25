@@ -2,7 +2,7 @@
 
 Performed a data cleaning project with SQL on Microsoft SQL Server Management Studio 18.
 
-Project Dataset: https://github.com/AlexTheAnalyst/PortfolioProjects/blob/main/Nashville%20Housing%20Data%20for%20Data%20Cleaning.xlsx
+Project Dataset source: https://github.com/AlexTheAnalyst/PortfolioProjects/blob/main/Nashville%20Housing%20Data%20for%20Data%20Cleaning.xlsx
 
 ## Credit(s)
 
